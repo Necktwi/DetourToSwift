@@ -1,0 +1,6 @@
+[submodule "SwiftTest"]
+	path = SwiftTest
+	url = https://necktwi@github.com/necktwi/SwiftTest.git
+[submodule "CPPTest"]
+	path = CPPTest
+	url = https://necktwi@github.com/necktwi/CPPTest.git
